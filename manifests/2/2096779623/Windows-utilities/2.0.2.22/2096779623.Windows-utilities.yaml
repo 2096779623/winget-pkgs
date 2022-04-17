@@ -1,0 +1,8 @@
+# Created with YamlCreate.ps1 v2.1.2 $debug=NVS1.5-1-19041-1
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.1.0.schema.json
+
+PackageIdentifier: 2096779623.Windows-utilities
+PackageVersion: 2.0.2.22
+DefaultLocale: zh-CN
+ManifestType: version
+ManifestVersion: 1.1.0

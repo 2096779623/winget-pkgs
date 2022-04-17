@@ -1,0 +1,27 @@
+# Created with YamlCreate.ps1 v2.1.2 $debug=NVS1.5-1-19041-1
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.1.0.schema.json
+
+PackageIdentifier: 2096779623.Windows-utilities
+PackageVersion: 2.0.2.22
+PackageLocale: zh-CN
+Publisher: "2096779623"
+PublisherUrl: https://github.com/2096779623
+PublisherSupportUrl: https://github.com/2096779623/Windows-utilities
+# PrivacyUrl: 
+Author: "2096779623"
+PackageName: Windows-utilities
+PackageUrl: https://blog.utermux.dev/win/Windows-utilities.html
+License: AGPL-3.0
+LicenseUrl: https://github.com/2096779623/Windows-utilities/blob/main/LICENSE
+# Copyright: 
+# CopyrightUrl: 
+ShortDescription: By 2096779623
+Description: Windows实用小工具 By 2096779623
+Moniker: windows实用小工具
+Tags:
+- batchfile
+# Agreements: 
+ReleaseNotes: https://github.com/2096779623/Windows-utilities/releases/tag/v2.0.2.22
+ReleaseNotesUrl: https://github.com/2096779623/Windows-utilities/releases/tag/v2.0.2.22
+ManifestType: defaultLocale
+ManifestVersion: 1.1.0

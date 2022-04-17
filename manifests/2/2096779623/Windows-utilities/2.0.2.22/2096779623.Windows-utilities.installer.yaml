@@ -1,0 +1,24 @@
+# Created with YamlCreate.ps1 v2.1.2 $debug=NVS1.5-1-19041-1
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.1.0.schema.json
+
+PackageIdentifier: 2096779623.Windows-utilities
+PackageVersion: 2.0.2.22
+InstallerLocale: zh-CN
+MinimumOSVersion: 10.0.0.0
+InstallerType: exe
+InstallModes:
+- interactive
+InstallerSwitches:
+  Silent: /
+  SilentWithProgress: /
+UpgradeBehavior: uninstallPrevious
+Protocols:
+- https://github.com/2096779623/windows-utilities
+FileExtensions:
+- exe
+Installers:
+- Architecture: x86
+  InstallerUrl: https://github.com/2096779623/Windows-utilities/releases/download/v2.0.2.22/Windows-Utilities.v2.0.2.22.exe
+  InstallerSha256: ABFA2847A49A5FE82B9994798D9FC5A83F4E940B785FCB738D584E6184E30513
+ManifestType: installer
+ManifestVersion: 1.1.0
